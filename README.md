@@ -12,7 +12,7 @@
 
 - 📫 To reach me prasalkar916@gmail.com
 
-
+<div class="container">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prateek-rasalkar-54653421b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateekr0000" height="30" width="40" /></a>
@@ -34,6 +34,12 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="php" width="40" height="40"/> </a>
     </p>
 
+<div class="region region-footer-menu">
+    <div id="block-visitorcounter" class="block block-visitor-counter block-visitor-counter-block">
+      <div class="counter"><div class="counter-text"> Unique Visitors:<span> </span></div><div class="counter-text"> NUMBER OF HITS:<span> </span></div> </div>
+  </div>
+</div>
+  </div>
 
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=prateekr0000&show_icons=true alt=prateekr0000 />
