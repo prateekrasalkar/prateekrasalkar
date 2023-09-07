@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">I have a great interest in Data Science,Artifical Intelligence,Web Development and Problem Solving</h3>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="400">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prateekr0000&label=Profile%20views&color=0e75b6&style=flat" alt="prateekr0000" /> </p>
 
