@@ -20,6 +20,10 @@
 <a href="https://www.facebook.com/prateek.rasalkar.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="prateekr0000" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prateek_rasalkar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="prateekr0000" height="30" width="40" /></a>
   <a href="https://www.snapchat.com/add/prateek_150902?share_id=jYy0FeszcZ8&locale=en-US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/snapchat.svg" alt="prateekr0000" height="30" width="40" /></a>
+<a href="https://youtube.com/@prateekrasalkar1755?si=LVxFFjuOJcJJUDzj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/youtube.svg" alt="prateekr0000" height="30" width="40" /></a>
+<a href="mailto: prasalkar916@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/mailbox2.svg" alt="prateekr0000" height="30" width="40" /></a>
+
+    
 </p>
 
 
