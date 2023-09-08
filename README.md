@@ -24,7 +24,7 @@
 <a href="mailto: prasalkar916@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/mailbox2.svg" alt="prateekr0000" height="40" width="40" /></a>
     <a href="https://twitter.com/PrateekRasalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/twitter.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="https://github.com/prateekr0000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/github.svg" alt="prateekr0000" height="40" width="40" /></a>
-    <a href="t.me/prateek_stranger" target="blank"><img align="center" src="https://fontawesomeicons.com/lib/svg/telegram-logo-duotone.svg" alt="prateekr0000" height="40" width="40" /></a>
+<a href="https://t.me/prateek_stranger" target="blank"><img align="center" src="https://fontawesomeicons.com/lib/svg/telegram-logo-duotone.svg" alt="prateekr0000" height="40" width="40" /></a>
 
 
     
