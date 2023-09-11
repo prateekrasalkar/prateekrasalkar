@@ -14,6 +14,8 @@
 
 - 🏫 Vidyalankar Institute of Technology,Mumbai
 
+-  Visit my website https://prateekr0000.github.io/prateekrasalkar.github.io/ for more information.
+
 - 📫 To reach me prasalkar916@gmail.com
 
 <p align="left">
