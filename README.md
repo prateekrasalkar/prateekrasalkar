@@ -48,6 +48,14 @@
 
  
 
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=prateekr0000&show_icons=true alt=prateekr0000 />
-</p>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekr0000&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateekr0000&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateekr0000&theme=dracula)
+
+
+<br>
