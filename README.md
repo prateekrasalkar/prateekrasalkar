@@ -48,9 +48,9 @@
 
  
 
-<summary>📈 Stats</summary>
+<summary>📈 Statistics</summary>
 <br>
-My Github Stats
+         My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekr0000&theme=dracula) 
 
