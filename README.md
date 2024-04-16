@@ -2,7 +2,7 @@
 <h3 align="center">I have a great interest in Data Science,Artifical Intelligence,Web Development and Problem Solving</h3>
 <p align="center">• Visit my website https://prateekr0000.github.io/prateekrasalkar.github.io/ for more information.</p>
 <p align="left">
-   </p>
+ <img src="https://komarev.com/ghpvc/?username=prateekr0000&label=Profile%20views&color=yellowgreen&style=flat&base=00000" alt="prateekr0000" /></p>
 
 <p align="center">
 <a href="https://prateekr0000.github.io/prateekrasalkar.github.io/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="400"></p></a>
