@@ -4,8 +4,7 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=prateekr0000&label=Profile%20views&color=0e75b6&style=flat" alt="prateekr0000" /> </p>
 
-<p align="center">
-<a href="https://prateekr0000.github.io/prateekrasalkar.github.io/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="400"></p></a>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateekr0000]
