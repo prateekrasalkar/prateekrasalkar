@@ -14,19 +14,19 @@
 
 - 🏫 Vidyalankar Institute of Technology,Mumbai
 
-- 🌐 Visit my website https://prateekr0000.github.io/prateekrasalkar.github.io/ for more information.
+- 🌐 Visit my website https://prateekrasalkar.github.io/ for more information.
 
 - 📫 To reach me prasalkar916@gmail.com
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/prateek-rasalkar-54653421b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateekr0000" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/prateekrasalkar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="https://www.facebook.com/prateek.rasalkar.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="https://www.instagram.com/prateek_rasalkar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="prateekr0000" height="40" width="40" /></a>
   <a href="https://www.snapchat.com/add/prateek_150902?share_id=jYy0FeszcZ8&locale=en-US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/snapchat.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="https://youtube.com/@prateekrasalkar1755?si=LVxFFjuOJcJJUDzj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/youtube.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="mailto: prasalkar916@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/mailbox2.svg" alt="prateekr0000" height="40" width="40" /></a>
     <a href="https://twitter.com/PrateekRasalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/twitter.svg" alt="prateekr0000" height="40" width="40" /></a>
-<a href="https://github.com/prateekr0000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/github.svg" alt="prateekr0000" height="40" width="40" /></a>
+<a href="https://github.com/prateekrasalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/icons/github.svg" alt="prateekr0000" height="40" width="40" /></a>
 <a href="https://t.me/prateek_rasalkar" target="blank"><img align="center" src="https://fontawesomeicons.com/lib/svg/telegram-logo-duotone.svg" alt="prateekr0000" height="40" width="40" /></a>
 
 
