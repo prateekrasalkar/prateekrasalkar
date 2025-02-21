@@ -12,7 +12,7 @@
 
 - 🏠 I am from Sangli
 
-- 🏫 Vidyalankar Institute of Technology,Mumbai
+- 🏫 Walchand College of Engineering,Sangli
 
 - 🌐 Visit my website https://prateekrasalkar.github.io/ for more information.
 
