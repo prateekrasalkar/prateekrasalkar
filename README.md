@@ -57,7 +57,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateekrasalkar&theme=dracula) 
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateekrasalkar0&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateekrasalkar&theme=dracula)
 
 
 <br>
